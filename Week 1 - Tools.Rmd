@@ -150,12 +150,12 @@ You can see SPSS was by far the most popular, but its popularity has really decr
 - Due last of week of October
 - **We will work on these essays as part of this class. You decide whether you want to submit**
 
-## The **challenge** of every thesis/article/grant proposal
+## The **challenge** of every thesis, article, and grant proposal
 > - This is where you communicate the contribution of your work 
 > - What do you want to learn?
 > - How are you going to learn it?
 > - What do you think will happen?
-> - What are your objectives (optional)
+> - Sometimes you might have objectives instead of hypotheses. But usually you want to write your objectives as though they are hypotheses because they probably are. Sometimes you have hypotheses and objectives. That's ok, all these rules can be broken.
 
 ## What do you want to learn
 - To learn x, we did y
@@ -164,9 +164,13 @@ You can see SPSS was by far the most popular, but its popularity has really decr
 
 ## What do you want to learn (examples)
 > - how facial expressions moderate prejudice
-> - how favorable participants felt toward social group members displaying angry, neutral, and happy facial expressions.
+> - how favorable participants felt toward people displaying angry, neutral, and happy facial expressions.
 > - how men and women are represented in the cognitive schemas of social categories around the world (to learn x)
 > - how strongly prejudice against the men and women of social categories were related to prejudice against those categories overall (we did y)
+
+## Writing Strategy
+- Get your idea onto the screen
+- Then check out these tips to make your writing more powerful
 
 ## Tips for writing sentences (1)
 > - Subject, verb, object
@@ -176,7 +180,7 @@ You can see SPSS was by far the most popular, but its popularity has really decr
 > - Put the verb and subject as close together as possible
 > - The ice cream melted.
 > - The ice cream, which was strawberry, melted.
-> - Can you fix this sentence but keep all the information?
+> - Can you make this sentence more powerful without losing information?
 
 ## Tips for writing sentences (2)
 > - **Topic**: the beginning of the sentence. Put old information here
@@ -204,24 +208,66 @@ You can see SPSS was by far the most popular, but its popularity has really decr
 > - Delete filter phrases! X (Smith, 2001)
 
 ## Tips for writing sentences (5)
-> - Avoid adverbs. Just use a stronger or weaker noun or verb
-> - For example, don't use: Significantly
+> - Avoid adverbs. Just use a stronger or weaker noun or verb.
+> - There can be exceptions but these adverbs are bad.
+> - Significant(ly), certain(ly), entire(ly), high(ly), quite, rather, real(ly), simple(ly), substantial(ly), very
+> - The immune system uses a highly effective control mechanism that efficiently discriminates between self and nonself.
 
 ## Tips for writing sentences (6)
 
-|Long French or Latin Word|Shorter Viking word (Anglo-Saxon)|
+|Avoid Long French or Latin Word|Use Shorter Viking word (Anglo-Saxon)|
+|:-----------------------------:|:-----------------------------------:|
+|Duration (fr)                  |length or time                       |
+|Consume  (fr)                  |eat                                  |
+|Mortality (fr)                 |death                                |
+|Permit (fr)                    |let                                  |
+|Necesssary (fr)                |need                                 |
+|Demonstrate (L)                |show                                 |
+|Donate (L)                     |give                                 |
+|Initiate (L)                   |start                                |
+|Attempt (fr)                   |try (old french)                     |
+|Utilize (fr)                   |use (old french)                     |
+|Methodology (L)                |Method (also L)                      |
+
+## Tips for writing sentences (7)
+|Use Verbs                |Avoid Nominalizations            |
 |:-----------------------:|:-------------------------------:|
-|Duration (fr)            |length or time                   |
-|Consume  (fr)            |eat                              |
-|Mortality (fr)           |death                            |
-|Permit (fr)              |let                              |
-|Necesssary (fr)          |need                             |
-|Demonstrate (L)          |show                             |
-|Donate (L)               |give                             |
-|Initiate (L)             |start                            |
-|Attempt (fr)             |try (old french)                 |
-|Utilize (fr)             |use (old french)                 |
-|Methodology (L)          |Method (also L)                  |
+|Move                     |Movement                         |
+|Differ                   |Difference                       |
+|Suggest                  |Suggestion                       |
+|Interact                 |Interaction                      |
+|Analyze                  |Analysis                         |
+|Develop                  |Development                      |
+|Influenced               |had an influence on              |
+|Approached               |took an approach                 |
+|Yielded                  |The yield of the                 |
+|Associated               |The association was              |
+
+## Tips for writing sentences (8)
+|Fuzzy verbs (weak)|Action Verbs (Strong)|
+|:----------------:|:-------------------:|
+|occur             |modify               |
+|facilitate        |increase/decrease    |
+|conduct           |accomplish           |
+|implement         |create               |
+|affect            |invade               |
+|perform           |react                |
+|                  |inhibit              |
+|                  |disrupt              |
+|                  |accelerate           |
+|                  |migrate              |
+
+## Tips for writing sentences (9)
+- Always use active voice!
+    - Unless you want to hide the actor
+    - Or you want to focus on the 'acted on' thing  
+
+|Voice       |Subject     |Verb        |Object      |
+|:----------:|:----------:|:----------:|:----------:|
+|Active      |John        |called      |Jane        |
+|            |Actor       |Action      |Acted-on    |
+|Passive     |Jane        |was called  |by John     |
+|            |Acted-on    |Action      |Actor       |
 
 ## Next week
 - Meet in library
