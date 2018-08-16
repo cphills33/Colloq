@@ -51,5 +51,22 @@ img {
 }
 
 a {
-  color: white;
+  color: #F32D60;
+}
+
+table.rmdtable th {
+  background: linear-gradient(to right, #337EAB, #337EAB);
+  font-size: 12px;
+}
+
+table.rmdtable td {
+  font-size: 12px;
+}
+
+table.rmdtable tr > td:first-child{
+  color: #FFFFFF;
+}
+
+table.rmdtable tr:nth-child(odd){
+  background-color:#F32D60;
 }

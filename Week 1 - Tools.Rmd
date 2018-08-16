@@ -136,7 +136,7 @@ You can see SPSS was by far the most popular, but its popularity has really decr
 
 ## Grammarly (Writing Tool 3)
 - <https://www.grammarly.com>
-- Check spelling and basic grammer
+- Check spelling and basic grammar
     - Excellent at catching passive voice
     - Let's you know when you're being too wordy
     - Not perfect but useful. It's like a fresh set of eyes.
@@ -150,14 +150,82 @@ You can see SPSS was by far the most popular, but its popularity has really decr
 - Due last of week of October
 - **We will work on these essays as part of this class. You decide whether you want to submit**
 
-## What do you want to learn?
+## The **challenge** of every thesis/article/grant proposal
+> - This is where you communicate the contribution of your work 
 > - What do you want to learn?
 > - How are you going to learn it?
 > - What do you think will happen?
 > - What are your objectives (optional)
 
+## What do you want to learn
+- To learn x, we did y
+- Bad challenges focus on information rather than knowledge
+- Bad challenges focus on results rather than the meaning of results
+
+## What do you want to learn (examples)
+> - how facial expressions moderate prejudice
+> - how favorable participants felt toward social group members displaying angry, neutral, and happy facial expressions.
+> - how men and women are represented in the cognitive schemas of social categories around the world (to learn x)
+> - how strongly prejudice against the men and women of social categories were related to prejudice against those categories overall (we did y)
+
+## Tips for writing sentences (1)
+> - Subject, verb, object
+> - Who is the sentence about? 
+> - What happened?
+> - What was the outcome?  
+> - Put the verb and subject as close together as possible
+> - The ice cream melted.
+> - The ice cream, which was strawberry, melted.
+> - Can you fix this sentence but keep all the information?
+
+## Tips for writing sentences (2)
+> - **Topic**: the beginning of the sentence. Put old information here
+> - **Stress**: the end of the sentence. Put new information here. This holds the emotional weight of the sentence.
+> - In a multi-clause sentence, the ending of each clause is a *stress*.
+> - **Topic is second most important**. It should be short and clear. Main verb should immediately follow topic.
+> - **Middle is least important**. Put things that you don't want emphasized here. (or don't have this)
+> - **Stress is most important**. Put your key message here. Delete words that follow the word you want to be the stress.
+> - The strawberry ice cream melted on the table.
+
+## Tips for writing sentences (3)
+> - What is the topic and what is the stress? What is the story?
+> - Viruses were not studied in the sea until 1989 yet are its most abundant biological entities.
+> - The most abundant biological entities in the sea are viruses, yet they were not studied until 1989.
+> - The most abundant biological entities in the sea were not studied until 1989: viruses.
+> - The placement of 'viruses', '1989', and 'most abundant biological entities in the sea' can tell up to six different stories
+> - Think about the story you are telling with each sentence you write
+
+## Tips for writing sentences (4)
+> - What is the topic of your sentence???
+> - Is it you? Is that what you intend?
+> - Is it the authors of a paper? Smith (2001) found X.
+> - They should never be the topic of a sentence. X (Smith, 2001).
+> - Are you using filter phrases? There is evidence that X (Smith, 2001)
+> - Delete filter phrases! X (Smith, 2001)
+
+## Tips for writing sentences (5)
+> - Avoid adverbs. Just use a stronger or weaker noun or verb
+> - For example, don't use: Significantly
+
+## Tips for writing sentences (6)
+
+|Long French or Latin Word|Shorter Viking word (Anglo-Saxon)|
+|:-----------------------:|:-------------------------------:|
+|Duration (fr)            |length or time                   |
+|Consume  (fr)            |eat                              |
+|Mortality (fr)           |death                            |
+|Permit (fr)              |let                              |
+|Necesssary (fr)          |need                             |
+|Demonstrate (L)          |show                             |
+|Donate (L)               |give                             |
+|Initiate (L)             |start                            |
+|Attempt (fr)             |try (old french)                 |
+|Utilize (fr)             |use (old french)                 |
+|Methodology (L)          |Method (also L)                  |
+
 ## Next week
 - Meet in library
     - (I won't be here)
+    - Room 2102B
 - Submit elevator pitch assignment
 - Check Canvas for updates
