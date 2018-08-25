@@ -52,7 +52,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - But I recommend:
     - [R for Data Science](r4ds.had.co.nz)
     - [Writing Science by Joshua Schimel](https://www.amazon.com/Writing-Science-Papers-Proposals-Funded/dp/0199760241/ref=sr_1_3?ie=UTF8&qid=1534241813&sr=8-3&keywords=writing+science)
-    - [Ten simple rules for structuring paper by PLOS Computational Biology Staff](journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
+    - [Ten simple rules for structuring paper by PLOS Computational Biology Staff](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
     - [Writing for Psychology by Mark Mitchell and colleagues](https://www.amazon.com/Writing-Psychology-Mark-L-Mitchell/dp/1111840636/ref=sr_1_1?ie=UTF8&qid=1534242058&sr=8-1&keywords=writing+for+psychology)
     
 ## Goals of this course
@@ -264,9 +264,9 @@ You can see SPSS was by far the most popular, but its popularity has really decr
 
 |Voice       |Subject     |Verb        |Object      |
 |:----------:|:----------:|:----------:|:----------:|
-|Active      |John        |called      |Jane        |
+|Active      |The zombies        |chased      |the dog        |
 |            |Actor       |Action      |Acted-on    |
-|Passive     |Jane        |was called  |by John     |
+|Passive     |The dog        |was chased  |by zombies     |
 |            |Acted-on    |Action      |Actor       |
 
 ## Next week
