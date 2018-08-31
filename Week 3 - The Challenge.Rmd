@@ -1,0 +1,59 @@
+---
+title: "PSY 6937"
+subtitle: "Colloquium in Psychological Research"
+author: "Week 3: The Challenge"
+output:
+  ioslides_presentation:
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## The Challenge
+> - This is where you communicate the contribution of your work 
+> - What do you want to learn?
+> - How are you going to learn it?
+> - What do you think will happen?
+> - Sometimes you might have objectives instead of hypotheses. But usually you want to write your objectives as though they are hypotheses because they probably are. Sometimes you have hypotheses and objectives. That's ok, all these rules can be broken.
+
+## What do you want to learn
+- To learn x, we did y
+- Bad challenges focus on information rather than knowledge
+- Bad challenges focus on results rather than the meaning of results
+
+## What do you want to learn (examples)
+> - how facial expressions moderate prejudice
+> - how favorable participants felt toward people displaying angry, neutral, and happy facial expressions.
+> - how men and women are represented in the cognitive schemas of social categories around the world (to learn x)
+> - how strongly prejudice against the men and women of social categories were related to prejudice against those categories overall (we did y)
+
+## The Opening
+> - Identity the problem that drives the research (What you want to learn)
+> - Introduce the key characters (the key variables)
+> - Target an audience (general vs. specialist)
+
+## Bad Openings
+> - Misdirect the reader by introducing non-essential characters
+> - Have no direction. They explain concepts that the audience alrady understands
+
+## Targeting an audience -- Elevator Pitches
+> - Give your one-sentence summary of what you want to learn
+> - Pause
+> - if the person wants to learn more, they'll ask a question. 
+> - Tell them how you plan to learn it, and your predictions
+
+## <https://sarneckalab.blogspot.com/2018/08/writing-workshop-chapter-6.html>  
+
+
+<img class = "fullimagewidth" src="elevators.png" width="500">
+
+
+
+## Next week
+- Meet in library
+    - (I won't be here)
+    - Room 2102B
+- Submit elevator pitch assignment
+- Check Canvas for updates
