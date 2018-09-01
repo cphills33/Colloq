@@ -41,19 +41,72 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Targeting an audience -- Elevator Pitches
 > - Give your one-sentence summary of what you want to learn
 > - Pause
-> - if the person wants to learn more, they'll ask a question. 
+> - If the person wants to learn more, they'll ask a question. 
 > - Tell them how you plan to learn it, and your predictions
 
 ## <https://sarneckalab.blogspot.com/2018/08/writing-workshop-chapter-6.html>  
 
-
 <img class = "fullimagewidth" src="elevators.png" width="500">
 
+## Think-Pair-Share
+- 1st years team up with second years. Every group should have one 1st year
+- Introduce yourselves!
+- Refine your elevator pitches! Develop a one-sentence elevator pitch aimed at each level
+- You have 5 minutes
 
+## Targeting an audience -- Paper Structure
+- Thesis Committee: very knowledgable audience
+- Journal: specialist audience
+- Grant: general audience
+- consequences for what counts as jargon
+- Two paper structures:
+    - OCAR for journals and theses
+    - ABDCE for grants
+
+## OCAR
+- Opening: Grab audience attention (but which audience?)
+    - Start very wide for a general audience
+    - Start more narrowly for a specialist audience
+- Challenge: state your contribution (end of introduction)
+- Action: methods and results
+- Resolution: discussion
+
+## ABDCE
+- Action: opening and challenge combined at start of paper
+- Background: literature review
+- Development: proposed methods
+- Climax: predictions
+- End: conclusion/resolution
+
+## Opening/Challenge of Grant
+- Use a 2-step opening
+    - Open with larger issue that engages audience
+    - Quickly switch to your issue
+    - 2 steps is good. 3 is bad. This must happen quickly.
+- What do you want to learn?
+- How will you learn it?
+- What do you think will happen?
+
+## Word Race!
+> - You must write at least 300 words
+> - You have 10 minutes
+> - You will write the Opening/Challenge of a grant for your research topic
+> - Go!
+
+## Think-Pair-Share
+- Team up again!
+- Every group must have one 1st year
+- Everyone will read someone else's work.
+- Tell them what you are thinking as you read it
+    - Opening too general? Too specific?
+    - What are the 2 steps?
+    - Can you make sentences punchier? (shorter; powerful words in the stress positions)
+    - Tell them what you think the contribution is
+    - Would you keep reading?
+- You have 5 minutes
 
 ## Next week
-- Meet in library
-    - (I won't be here)
-    - Room 2102B
-- Submit elevator pitch assignment
-- Check Canvas for updates
+- Setting a schedule
+- Starting finding articles for your proposal 
+- [sci-hub](sci-hub.tw)
+- Check Canvas for updates and assignments
