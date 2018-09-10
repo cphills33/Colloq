@@ -87,7 +87,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - How will you learn it?
 - What do you think will happen?
 
-## Word Race!
+## Word Sprint!
 > - You must write at least 300 words
 > - You have 10 minutes
 > - You will write the Opening/Challenge of a grant for your research topic

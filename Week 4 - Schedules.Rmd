@@ -1,0 +1,82 @@
+---
+title: "PSY 6937"
+subtitle: "Colloquium in Psychological Research"
+author: "Week 4: Schedules"
+output:
+  ioslides_presentation:
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## What are your professional goals?
+> - thesis
+> - PhD
+> - academic position
+> - non academic position
+
+## Methodicalness and routinization produce theses
+
+## What are the major projects that go into completing a thesis?
+> - IRB
+> - collecting data
+> - analyzing data
+> - writing the thesis
+
+## Project Management Sheets
+- State the goal: Attend a PhD program
+- State the project: Win a grant
+- list the tasks for the project
+
+
+|Task                                        |Number of hours|
+|:------------------------------------------:|:-------------:|
+|Research grants for incoming PhD students   |4     |  
+|Confirm eligibility for grant  |1    |  
+|Writing Challenge  |8    |
+|Write background  |8    |  
+|Write methods and predictions| 2|
+|Write conclusion  | 1|
+|Get peer feedback |1|
+|Get advisor feedback|1|
+
+## Map Tasks to calendar
+ - Which year will you complete them? 
+     - This year or next year?
+ - What will happen each semester of the year? 
+     - All tasks this semester or spread them over your first year
+ - What will happen each month of the year?
+     - Everything in september and october of this year or spread them out over first year
+ - What will happen each week of the current month?
+     - This week: find relevant articles 
+ - What will happen tomorrow?
+     - Search for articles, work on challenge
+
+## Think-Pair-Share
+- Team up 1st years with 2nd years
+- Make a project management sheet for one of the projects related to completing a theis
+    - IRB, collecting data, analyzing data, writing the thesis
+- Map those tasks over time. (When should each be completed by year, semester)
+- What is scheduled for September 2018?
+
+## Scheduling
+> - Make a schedule every week. 
+> - Don't try to fit everything into a single day. 
+> - Make sure you are working on tasks related to your goals every week.
+> - (It's ok if you can't write every day, but you  must find time every week. Plan it!)
+
+## Writing Meetings
+> - set meetings with yourself to write every week (include alarms!)
+> - What is your ideal writing duration? How long does it take to start? Do you have a routine?
+> - Do you  need to schedule email or snap time before writing time? Do you need to go for a walk first?
+> - End your writing time before you tire. Don't end at the end of a section, end in the middle of a paragraph.
+> - Start planning your weekly writing sessions by blocking out the times you can't write (class, family, commuting, walking the dog, watching game of thrones)
+> - Avoid the stress of being pulled in two directions at once!
+
+## Next week
+- Writing the background
+- Continue finding articles for your proposal 
+- [sci-hub](sci-hub.tw)
+- Check Canvas for updates and assignments
