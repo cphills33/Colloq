@@ -75,8 +75,23 @@ knitr::opts_chunk$set(echo = FALSE)
 > - Start planning your weekly writing sessions by blocking out the times you can't write (class, family, commuting, walking the dog, watching game of thrones)
 > - Avoid the stress of being pulled in two directions at once!
 
+## What counts as writing
+> - finding articles?
+> - editing
+> - word sprint
+> - reading articles?
+> - organizing zotero
+
+## Zotero
+- [Zotero](https://www.zotero.org)
+- reference manager
+- Works with word
+- Works with RStudio
+- Free
+
+
 ## Next week
 - Writing the background
 - Continue finding articles for your proposal 
-- [sci-hub](sci-hub.tw)
+- [sci-hub](https://sci-hub.tw)
 - Check Canvas for updates and assignments
