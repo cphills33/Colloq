@@ -1,0 +1,94 @@
+---
+title: "PSY 6937"
+subtitle: "Colloquium in Psychological Research"
+author: "Week 5: Outlines"
+output:
+  ioslides_presentation:
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## What makes a good meeting with an advisor?
+> - You know advisor's expectations
+> - Your advisor trusts you
+
+## Tips for a good advisor meeting
+> - Take notes
+> - Write down tasks
+> - Confirm tasks before ending meeting
+> - Ideally, use google docs. Google docs allow you to review past meeting notes at future meetings.
+> - Create a single doc that you add to every meeting. Have a new entry or new page for each meeting. 
+> - Include emails in this doc. Every email with a task should be included in the doc.
+
+## Thesis Scheduling
+> - Who needs more time?
+> - What are some solutions?
+
+## Writing Meetings
+> - set meetings with yourself to write every week (include alarms!)
+> - What is your ideal writing duration? How long does it take to start? Do you have a routine?
+> - Do you  need to schedule email or snap time before writing time? Do you need to go for a walk first?
+> - End your writing time before you tire. Don't end at the end of a section, end in the middle of a paragraph.
+> - Start planning your weekly writing sessions by blocking out the times you can't write (class, family, commuting, walking the dog, watching game of thrones)
+> - Avoid the stress of being pulled in two directions at once!
+
+## What counts as writing
+> - finding articles?
+> - editing
+> - word sprint
+> - reading articles?
+> - organizing zotero
+
+## Zotero
+- [Zotero](https://www.zotero.org)
+- reference manager
+- Works with word
+- Works with RStudio
+- Free
+
+## Making an outline
+> - We don't have much time to write so we don't want to waste time writing a paper with the wrong structure.
+> - Outlines help with this
+> - Some outlines help more than others
+> - Start with Opening and Contribution
+> - create a bridge or funnel between them
+
+## Making an outline 2
+- Find all the articles about your topic
+- Group them into points or evidences
+    - identity is important
+    - prejudice is important
+    - Evaluative conditioning is a good way to reduce prejudice
+    - categorization leads to prejudice and other stuff
+    - identity, prejudice, and ID are all different
+    - ID is more important for predicting some types of discrimination
+    - attitudes might be causally related to ID
+    - changing ID also changes prejudice
+    
+    
+## Making an outline 3
+> - put each point or evidence onto an index card (or use Scrivener or some kind of mind map software)
+> - Make a case argument
+> - You are a lawyer making a case to a jury. Be logical and rational but also tell a story.
+> - No one piece of evidence convinces the jury. Put the evidence in the best order. 
+> - Start more general, winnow down to the narrow.
+> - remove points that aren't directly related to your contribution. This is the key thing to do. Be ruthless.
+
+## Think-Pair-Share
+- Work in groups of 3 to 4
+- Here is my Opening: The present research investigated another manner in which implicit attitudes may be important in an intergroup context: their potential causal relationship with out-group identification.
+- Here is my Contribution: Provide new evidence for a close and causal relationship between two important intergroup biases (ID and Prejudice), as well as to inform us about processes related to bias reduction
+- Put together a bridge or funnel connecting my opening and my contribution
+- Don't need to use every point. In fact, probably shouldn't!
+
+## Work on your outlines
+- get all the evidence in any order
+- then create your case argument
+- move from general to specific
+
+## Next week
+- Continue finding articles for your proposal 
+- [sci-hub](https://sci-hub.tw)
+- Check Canvas for updates and assignments
