@@ -1,0 +1,37 @@
+---
+title: "PSY 6937"
+subtitle: "Colloquium in Psychological Research"
+author: "Week 6: Grant Proposals"
+output:
+  ioslides_presentation:
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## Thesis check in
+> - Who was not able to stick to their planned thesis schedule for the week?
+> - Who made schedule again this week?
+
+## Tools to help you focus in the limited time you have
+- [Forest](https://www.forestapp.cc/en/)
+- Pomodoro
+    - [Tomato Timer](https://tomato-timer.com)
+    
+## Grant proposal posted to Canvas
+
+## POMODORO!
+- 15 minutes of focused writing on proposal
+- Take a break then get feedback from peers. Also, call me over for feedback if you'd like.
+- Feedback
+    - Give 1 sentence summary. If difficult, challenge needs to be re-written
+    - Don't 'get' it? Targetting wrong audience.
+    - Readers stumbling on small section of text? Your case argument isn't flowing or there is a logical connection between paragraphs or sentences.
+    - Not interested? Need to explain why the paper matters in the opening but also throughout paper. Repetition!
+
+
+## Next week
+- Continue finding articles for your proposal 
+- [sci-hub](https://sci-hub.tw)
+- Check Canvas for updates and assignments
