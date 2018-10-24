@@ -1,0 +1,166 @@
+---
+title: "PSY 6937"
+subtitle: "Colloquium in Psychological Research"
+author: "Visualizing Data"
+output:
+  ioslides_presentation:
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+#Load the foreign package so we can import an SPSS file
+if (!require(foreign)){
+  install.packages("foreign", dependencies = TRUE)
+  require(foreign)
+}
+
+if (!require(ggplot2)){
+  install.packages("ggplot2", dependencies = TRUE)
+  require(ggplot2)
+}
+```
+## Reproducible Science (Presentations)
+- **If I re-analyze your data, do I get the same results?**
+
+[In the journal cognition](http://rsos.royalsocietypublishing.org/content/5/8/180448):
+
+>- About 78% of data is available to be re-analyzed
+>- About 60% of data is actually usable
+>- Of 35 articles selected for a test:
+>- 11 could be reproduced
+>- 11 more could be reproduced with help from the authors
+>- 13 articles not be reproduced even with author help
+
+## Reproducible Science (Presentations) 2
+
+>- Use RStudio to create manuscripts
+>- Code to produce statistics in manuscript is included in .RMD file
+>- 'Knit' to create the pdf
+>- [papaja](https://github.com/crsh/papaja)
+>- [bookdown](https://bookdown.org)
+
+## Reproducible Science (Presentations) 3
+
+>- Presentations are another communication method that would benefit from reproducibility
+>- Have you ever created a figure for a presentation then been unable to recreate to analysis the figure was based on when writing the manuscript (months later)
+>- [ioslides](https://rmarkdown.rstudio.com/ioslides_presentation_format)
+
+## [ioslides](https://rmarkdown.rstudio.com/ioslides_presentation_format)
+
+- File -> New File -> R Markdown...
+- Select presentation tab
+- Select ioslides
+- Type name of presentation
+- Press OK
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with Bullets that appear on click
+
+>- Bullet 1
+>- Bullet 2
+>- Bullet 3
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
+## Slide with table
+|Fuzzy verbs (weak)|Action Verbs (Strong)|
+|:----------------:|:-------------------:|
+|occur             |modify               |
+|facilitate        |increase/decrease    |
+|conduct           |accomplish           |
+|implement         |create               |
+|affect            |invade               |
+|perform           |react                |
+|                  |inhibit              |
+|                  |disrupt              |
+|                  |accelerate           |
+|                  |migrate              |
+
+## Slide with circles
+
+<div class="circle-text">Design</div>
+<div class="circle-text" >Collect</div>
+<div class="circle-text" >Analyze</div>
+<div class="circle-text-emphasis" >Replicate</div>
+
+## Class Presentation Information
+
+- Create ioslides presentation
+- Do not present it
+- You must use a custom css file to create a custom 'look' for your presentation. Do not use the default or my garish color scheme.
+- Add presenter notes to each slide. I want to read the presentation you won't give. This slide has an example of hidden presenter notes
+
+<div class="notes">
+This is where you put your presenter notes for each slide. They won't appear on the main screen.
+</div>
+
+
+## Class presentation slides
+- Use the following slides:
+    - Title Slide with name
+    - Interest slide(s)
+    - Background slide(s)
+    - What do you want to learn? slide
+    - How do you plan to learn it? slide 
+    - What do you think will happen? slide 
+    - Conclusion slide
+        - Synopsis of key results
+        - How do they answer your question
+        - What does this contribute to larger problem
+    - Final slide--link to OSF, github, pre-registration, codeocean
+
+## Creating a plot
+[Esquisse](https://github.com/dreamRs/esquisse)library(ggplot2)
+
+```{r}
+# From CRAN
+if (!require(esquisse)){
+  install.packages("esquisse", dependencies = TRUE)
+  require(esquisse)
+}
+```
+
+
+## Example Predictions slide
+
+```{r warning=FALSE, echo=FALSE}
+#load the SPSS file into a variable called 'dataset.' Now I can access the SPSS file just by referring to 'dataset'
+dataset = read.spss("https://osf.io/b2359/download", to.data.frame=TRUE, use.value.labels = FALSE)
+
+ggplot(dataset, aes(Comp1, AscentOfHumans_2)) + 
+  geom_jitter(alpha = .4, 
+              size = 5, 
+              color = "#B4975A") + 
+  geom_smooth(method = lm, 
+              color="#B4975A", 
+              fill = "#A1A1A4", 
+              linetype="dashed") + 
+  labs(x = "How competent you believe society views Black people", 
+       y = "How evolved do you believe Black people are?")  + 
+  theme_minimal() + 
+  theme(axis.line = element_line(color="#B4975A", size = .5), 
+        panel.grid = element_blank(),
+        plot.background = element_rect(fill = "#061922"), 
+        axis.title = element_text(color="#B4975A"), 
+        axis.text=element_text(color = "#B4975A")) + 
+  annotate("text", label = "r = .22", x = 5, y = 25, color="#B4975A", size=10)
+```
+
+  
+
