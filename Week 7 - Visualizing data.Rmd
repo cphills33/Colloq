@@ -123,7 +123,19 @@ This is where you put your presenter notes for each slide. They won't appear on 
         - Synopsis of key results
         - How do they answer your question
         - What does this contribute to larger problem
-    - Final slide--link to OSF, github, pre-registration, codeocean
+    - Final slide--Thank you, take-home message, link to OSF, pre-registration
+
+## Tips for making graphs
+- Contrast
+    - Use colors and solid lines when appropriate (powerpoint or web)
+- Think about the order you present categories
+    - High to low
+    - alphabetical
+    - Use the same order you've been using throughout your talk/paper
+- Spacing between bars should be half the bars' width
+- Set up side by side comparisons
+- no 3d, no pie charts
+
 
 ## Creating a plot
 [Esquisse](https://github.com/dreamRs/esquisse)library(ggplot2)
