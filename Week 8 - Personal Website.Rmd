@@ -1,0 +1,66 @@
+---
+title: "PSY 6937"
+subtitle: "Colloquium in Psychological Research"
+author: "Making a personal website"
+output:
+  ioslides_presentation:
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## Elements of a personal webpage
+- Introduction screen
+- Research/Project screen
+- Publication screen
+- Teaching experience screen
+- Diversity Statement
+- Your advisor webpage links to your webpage
+
+
+## Introduction Screen
+- photo of you
+- contact information
+- links to:
+     - CV/publications
+     - research
+     - collaborators
+
+## Research/Project Screen
+- Provide detail about your research projects
+    - Create interest
+    - What do you want to learn?
+    - How are you going to learn it?
+    - What do you think will happen?
+- Do not make this a text only page!
+    - photos
+    - tables
+    - graphs
+
+## Publications Screen
+- List all pubs in APA style
+- include links to manuscripts
+- include links to data
+- include links to analysis code
+- include links to materials
+- Think about linking to a short video where you explain the key findings
+
+## Teaching Screen
+- Teaching philosophy
+- Not just text
+    - photos of you teaching
+    - video of you explaining concept
+    - video of you introducing course
+    - link to syllabi or powerpoint slides
+    
+## Diversity Statement
+- Define diversity and inclusion
+- Understanding of barriers faced by historically under-represented groups
+- Past Activities
+    - mentoring/tutoring
+    - educational outreach
+    - Committee service
+    - research
+    - other
+- Future plans
