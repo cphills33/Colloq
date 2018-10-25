@@ -138,9 +138,9 @@ This is where you put your presenter notes for each slide. They won't appear on 
 
 
 ## Creating a plot
-[Esquisse](https://github.com/dreamRs/esquisse)library(ggplot2)
+[Esquisse](https://github.com/dreamRs/esquisse)
 
-```{r}
+```{r echo=TRUE}
 # From CRAN
 if (!require(esquisse)){
   install.packages("esquisse", dependencies = TRUE)
@@ -155,7 +155,7 @@ if (!require(esquisse)){
 #load the SPSS file into a variable called 'dataset.' Now I can access the SPSS file just by referring to 'dataset'
 dataset = read.spss("https://osf.io/b2359/download", to.data.frame=TRUE, use.value.labels = FALSE)
 
-ggplot(dataset, aes(Comp1, AscentOfHumans_2)) + 
+(ggplot(dataset, aes(Comp1, AscentOfHumans_2)) + 
   geom_jitter(alpha = .4, 
               size = 5, 
               color = "#B4975A") + 
@@ -171,8 +171,34 @@ ggplot(dataset, aes(Comp1, AscentOfHumans_2)) +
         plot.background = element_rect(fill = "#061922"), 
         axis.title = element_text(color="#B4975A"), 
         axis.text=element_text(color = "#B4975A")) + 
-  annotate("text", label = "r = .22", x = 5, y = 25, color="#B4975A", size=10)
+  annotate("text", label = "r = .22", x = 5, y = 25, color="#B4975A", size=10) -> myggplot)
 ```
 
-  
+## Saving directly to powerpoint
+```{r echo=TRUE}
+if (!require(rvg)){
+  install.packages("rvg", dependencies = TRUE)
+  require(rvg)
+}
+
+if (!require(officer)){
+  install.packages("officer", dependencies = TRUE)
+  require(officer)
+}
+```
+
+## Saving directly to powerpoint 2
+```{r echo=TRUE}
+doc <- read_pptx()
+doc <- add_slide(doc, layout = "Title and Content", master = "Office Theme")
+doc <- ph_with_gg(doc, value = myggplot)
+print(doc, target = "my_plot.pptx")
+```
+
+## Saving as .png
+```{r echo=TRUE}
+ggsave("myplot.png", plot = myggplot)
+```
+
+
 
